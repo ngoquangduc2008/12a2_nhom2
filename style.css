@@ -66,7 +66,7 @@ nav a{
 .hero{
     height:420px;
     background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
-               url("img/nen.png") center/cover;
+               url("nen.png") center/cover;
     display:flex;
     align-items:center;
     justify-content:center;
@@ -329,3 +329,4 @@ body {
     padding: 15px;
     margin-top: 40px;
 }
+
